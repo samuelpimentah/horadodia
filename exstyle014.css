@@ -11,9 +11,10 @@ main {
     border-radius: 10px;
     text-align: center;
     padding: 15px;
-    width: 400px;
     margin: auto;
+    width: 100%;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.35);
+    max-width: 400px;
 }
 img {
     width: 300px;
