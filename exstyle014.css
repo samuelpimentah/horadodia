@@ -1,0 +1,27 @@
+body {
+    background-color: darkcyan;
+    font: normal 14pt "Times New Roman";
+}
+header {
+    color: white;
+    text-align: center;
+}
+main {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.35);
+}
+img {
+    width: 300px;
+    border-radius: 100%;
+}
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin-top: 50px;
+}
